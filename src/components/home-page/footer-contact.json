@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_page_footer_contacts",
+  "info": {
+    "displayName": "footer_contact"
+  },
+  "options": {},
+  "attributes": {
+    "footer_number": {
+      "type": "string"
+    },
+    "footer_email": {
+      "type": "email"
+    },
+    "footer_adress": {
+      "type": "text"
+    }
+  }
+}

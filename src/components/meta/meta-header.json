@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_meta_meta_headers",
+  "info": {
+    "displayName": "meta_header"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "text"
+    },
+    "seo_keywords": {
+      "type": "string"
+    }
+  }
+}

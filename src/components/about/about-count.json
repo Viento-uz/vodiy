@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_about_about_counts",
+  "info": {
+    "displayName": "about_count",
+    "icon": "cursor"
+  },
+  "options": {},
+  "attributes": {
+    "count_or_year": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

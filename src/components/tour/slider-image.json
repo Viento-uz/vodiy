@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_tour_slider_images",
+  "info": {
+    "displayName": "tour_slider_images",
+    "icon": "play",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "slider_image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_home_page_home_sliders",
+  "info": {
+    "displayName": "home_slider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "location": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::location.location"
+    },
+    "slider_title": {
+      "type": "string"
+    },
+    "slider_description": {
+      "type": "text"
+    },
+    "slider_link": {
+      "type": "string"
+    },
+    "slider_cover": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

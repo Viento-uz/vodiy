@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_tour_tour_days",
+  "info": {
+    "displayName": "tour_days",
+    "icon": "sun",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "count": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "day_images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

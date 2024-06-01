@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_forms",
+  "info": {
+    "displayName": "form"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone_number": {
+      "type": "integer"
+    },
+    "message": {
+      "type": "text"
+    }
+  }
+}

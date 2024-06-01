@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_tour_locations",
+  "info": {
+    "displayName": "location_google",
+    "icon": "cloud",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "longitude": {
+      "type": "string"
+    },
+    "latitude": {
+      "type": "string"
+    }
+  }
+}

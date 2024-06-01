@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_home_page_home_popular_tours",
+  "info": {
+    "displayName": "home_popular_tours"
+  },
+  "options": {},
+  "attributes": {
+    "tours": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::tour.tour"
+    }
+  }
+}

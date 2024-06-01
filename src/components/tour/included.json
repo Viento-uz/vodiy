@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_tour_includeds",
+  "info": {
+    "displayName": "included",
+    "icon": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

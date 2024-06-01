@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form_for_users",
+  "info": {
+    "singularName": "form-for-user",
+    "pluralName": "form-for-users",
+    "displayName": "form_for_users",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "check_in": {
+      "type": "date"
+    },
+    "check_out": {
+      "type": "date"
+    },
+    "adults": {
+      "type": "integer"
+    },
+    "children": {
+      "type": "integer"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "number": {
+      "type": "string"
+    },
+    "where_from": {
+      "type": "string"
+    },
+    "note": {
+      "type": "text"
+    },
+    "selected_tour_name": {
+      "type": "string"
+    }
+  }
+}

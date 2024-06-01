@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_tour_reviews",
+  "info": {
+    "displayName": "review",
+    "icon": "sun"
+  },
+  "options": {},
+  "attributes": {
+    "review_score": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "comment": {
+      "type": "text"
+    },
+    "review_image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
